@@ -32,7 +32,7 @@ export default function Home() {
             <p className='text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl'>
               {' '}
               Freelancer Full-Stack providing services for website programming
-              and mobile. Join me down below and let's get cracking!
+              and mobile. Join me down below and lets get cracking!
             </p>
             <SocialIcons />
           </div>
@@ -45,7 +45,7 @@ export default function Home() {
             <h3 className='text-3xl py-5 dark:text-white'>Services I offer</h3>
             <p className='text-md py-2 leading-8 text-gray-800 dark:text-gray-200'>
               {' '}
-              Since the beginning of my journey as a freelance developer, I've
+              Since the beginning of my journey as a freelance developer, I have
               done remote work for{' '}
               <span className='text-teal-500'> agencies </span>
               consulted for <span className='text-teal-500'>startups </span>
@@ -90,7 +90,7 @@ export default function Home() {
                 Code your dream website
               </h3>
               <p className='py-2'>
-                Do you have an idea for your next great website? Let's make it a
+                Do you have an idea for your next great website? Lets make it a
                 reality.{' '}
               </p>
               <h4 className='py-4 text-teal-600'>Platform I Use</h4>
